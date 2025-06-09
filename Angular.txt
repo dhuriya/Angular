@@ -2,4 +2,4 @@ Change drive K:
 goto inside a folder : cd folder name
 create a angular progect: ng new project name( ng new MyFirstAngularApp)
 compile the project: ng serve
-project automatically using your default browser:ng serve -o 
+project automatically using your default browser:ng serve -o xcxxc
